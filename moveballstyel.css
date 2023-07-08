@@ -1,0 +1,9 @@
+#ball{
+    height: 15vw;
+    width: 15vw;
+    border-radius: 50%;
+    background-color: bisque;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+}
